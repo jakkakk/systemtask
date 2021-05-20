@@ -1,0 +1,339 @@
+@media (min-width: 50px) and (max-width: 767px) {
+.lu_bnr {
+	padding: 75px 0px 0px 0px;
+}
+.lu_write {
+	width: 100%;
+}
+.lu_write h1 img {
+	width: 20%;
+}
+.lu_write h1 {
+	font-size: 18px;
+}
+.mtr {
+	padding: 30px 0px;
+}
+.lu_abyu {
+	height: auto;
+	padding: 50px 0px;
+}
+.lu_comn {
+	margin: -45px 0px 0px 0px;
+	padding: 0px;
+}
+.lu_cobg h1 {
+	top: -30px;
+}
+.lu_content {
+	margin-top: 0px;
+}
+.lu_content h1 {
+	font-size: 21px;
+}
+.lu_content p {
+	line-height: 23px;
+	font-size: 14px;
+	margin: 14px 0 22px 0;
+}
+.lu_testi {
+	height: auto;
+	margin: 0px;
+}
+.lu_contact {
+	padding: 20px 0px;
+}
+.coi_le {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.nv li a {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.navbar li a, .navbar .navbar-brand {
+	padding: 6px 0;
+	font-size: 15px;
+	font-weight: 300;
+}
+.cust_btn {
+	margin: 0px;
+	padding: 0px;
+}
+.nav > li:nth-child(6), .nav > li:nth-child(7), .nav > li:nth-child(8), .nav > li:nth-child(9) {
+	display: inline-block !important;
+	margin-right: 9px;
+}
+.lu_sdf {
+	background-image: url(../images/mobile.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position-y: 100%;
+	background-position-x: 100%;
+}
+.liu_imga {
+	background-image: none;
+	height: auto;
+}
+.lu_light, .lu_sdf {
+	height: auto;
+}
+.lut_lit {
+	width: 100%;
+	margin: 30px 0px;
+	padding: 9px 28px;
+}
+.lut_lit li {
+	font-size: 14px;
+}
+.lu_lets {
+	margin: 40px 0 93px 0;
+}
+.team_columns_carousel_wrapper {
+	padding: 15px 15px 0px 15px;
+	position: relative;
+	top: -130px;
+	background: transparent;
+}
+.team_columns_carousel_wrapper .carousel-inner {
+	overflow: initial;
+}
+.lu_person {
+	margin-top: -90px;
+	width: 60%;
+	margin-right: auto !important;
+	margin-left: auto !important;
+	text-align: center;
+	float: none;
+}
+.lu_editor {
+	margin-top: 8px;
+	text-align: center;
+}
+.cont_left h1 img {
+	width: 18%
+}
+.cont_left h2 {
+	font-size: 15px;
+	padding: 0 18px;
+	line-height: 24px;
+}
+.coi_le {
+	margin: 30px 0;
+}
+.cont_right .navbar-form {
+	border-bottom: none !important;
+	border-top: none !important;
+	-webkit-box-shadow: none;
+}
+.btn.btn-default.bbt {
+	bottom: 31px;
+	right: 14px;
+}
+.lu_login {
+	width: 100%;
+}
+.md-modal.md-effect-8.md-show {
+	margin: 96px 0px !important;
+	overflow: auto;
+	position: absolute;
+	padding: 0 5px;
+}
+.md-content > div {
+	padding: 15px 10px 30px;
+}
+.lut_tet {
+	padding: 20px 0px 160px 0;
+}
+.lu_contact {
+	margin: -110px 0 0 0;
+}
+.see {
+	padding: 9px 0px 0px 11px;
+}
+.sssa {
+	right: -13px;
+}
+.team_columns_carousel_control_left, .team_columns_carousel_control_right {
+	top: 0;
+	width: 27px;
+	height: 27px;
+}
+.team_columns_carousel_control_right {
+	right: 11px !important;
+	margin-top: 48px;
+}
+.team_columns_carousel_control_left {
+	left: auto;
+	margin-top: 48px;
+	right: 40px;
+}
+.team_columns_carousel_control_icons {
+	line-height: 0px;
+	font-size: 20px !important;
+	margin-top: 0;
+}
+.to_mut {
+	padding: 100% 0px;
+}
+#centered {
+	width: 90%;
+}
+.isro {
+    width: 100%;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+.nv li a {
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 14px;
+}
+.lu_light, .lu_sdf {
+	height: auto;
+}
+.lu_sdf {
+	background-image: url(../images/ligts_tab.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: auto;
+	background-position-y: 100%;
+	background-position-x: 100%;
+}
+.liu_imga {
+	background-image: none;
+	height: auto;
+}
+.lu_lets {
+	margin-top: 40px;
+	padding: 0 0 180px 0;
+}
+/*.liu_imga {
+	background-image: url(../images/ligts_tab.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: auto;
+	background-position-y: 100%;
+	background-position-x: 100%;
+}*/
+.lu_comn {
+	margin: -150px 0px 0px 0px;
+}
+.lu_cobg h1 {
+	top: -30px;
+}
+.lu_content p {
+	line-height: 22px;
+	font-size: 14px;
+	margin: 9px 0 8px 0;
+}
+.lu_content h1 {
+	font-size: 21px;
+}
+.lu_editor {
+	margin-top: 8px;
+	text-align: center;
+}
+.lu_testi {
+	height: auto;
+	margin: 0% 0 0 0;
+}
+.cont_left h1 img {
+	width: 18%
+}
+.cont_left h2 {
+	font-size: 15px;
+	padding: 0 18px;
+	line-height: 24px;
+}
+.coi_le {
+	margin: 30px 0;
+}
+.lu_login {
+	width: 100%;
+}
+.md-modal.md-effect-8.md-show {
+	margin: 96px 0px !important;
+	overflow: auto;
+	position: absolute;
+	padding: 0 5px;
+}
+.md-content > div {
+	padding: 15px 10px 30px;
+}
+.cont_left h3 {
+	margin: 0px;
+	padding: 0px;
+}
+.lu_person {
+	margin-top: -90px;
+	width: 60%;
+	margin-right: auto !important;
+	margin-left: auto !important;
+	text-align: center;
+	float: none;
+}
+.team_columns_carousel_wrapper {
+	padding: 15px 15px 0px 15px;
+	position: relative;
+	top: -130px;
+	background: transparent;
+}
+.lu_contact {
+	margin: -110px 0 0 0;
+}
+.lu_bnr {
+	padding: 100px 0px 0px 0px;
+}
+.team_columns_carousel_control_left, .team_columns_carousel_control_right {
+	top: 0;
+	width: 27px;
+	height: 27px;
+}
+.team_columns_carousel_control_right {
+	right: 11px !important;
+	margin-top: 48px;
+}
+.team_columns_carousel_control_left {
+	left: auto;
+	margin-top: 48px;
+	right: 40px;
+}
+.team_columns_carousel_control_icons {
+	line-height: 0px;
+	font-size: 20px !important;
+	margin-top: 0;
+}
+.to_mut {
+	padding: 100% 0px;
+}
+#centered {
+	width: 90%;
+}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+.nv li a {
+	font-size: 14px;
+}
+.liu_imga {
+	height: auto;
+	background-size: 100%;
+}
+}
+/*@media (max-width: 575px) {
+.liu_imga {
+	background-image: url(../images/mobile.png);
+	height: 100%;
+	background-position-x: 100%;
+	background-position-y: 100%;
+	background-size: cover;
+}
+.lut_lit {
+	width: 80%;
+	margin: 30px auto;
+	padding: 50px 28px;
+}
+.lu_sdf {
+	background-image: none;
+}
+}*/
